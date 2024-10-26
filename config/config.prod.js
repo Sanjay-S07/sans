@@ -4,5 +4,5 @@ window.config = {
     bio: "#{USER_BIO}#",
     location: "#{USER_LOCATION}#",
     email: "#{USER_EMAIL}#",
-    image: "#{USER_IMAGE}#"
+    image: "sans/p1.jpeg"
   };
